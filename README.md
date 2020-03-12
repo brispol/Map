@@ -1,4 +1,4 @@
-###Steps to run this application:  
+### Steps to run this application:  
 * create virtual environment 
 ```
 $: virtualenv venv
@@ -16,7 +16,7 @@ $: pip install -r requirements.txt
 $: python3 run.py -h
 ```
 
-###Run examples
+### Run examples
 * run with `--help` or `--test`:
 
 ![Image](docs/images/001.png)
